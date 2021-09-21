@@ -1,0 +1,11 @@
+body{
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden; /* 넘치는 부분을 잘려서 보여주지 않게한다.*/
+}
+.sidebar{
+    height:100%;
+    width:240px;
+
+}
